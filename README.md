@@ -1,5 +1,7 @@
 ### Hi there, I'm Rijin Thomas👋
 
+[<img align="left" alt="dev.to | Dev.to"  src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][dev.to]
+
 ## I'm a Student and a Developer!
 
 - 🔭 I’m currently working on my Final Year project!
@@ -15,7 +17,7 @@
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="instagram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="dev.to | Instagram" width="22px" src="https://raw.githubusercontent.com/gist/benhalpern/eff81b17359acafd17849146549b9291/raw/6de3cc24798bd3b133d4d89a1d87004c369eac46/dev-icon.svg" />][dev.to]
+[<img align="left" alt="dev.to | Dev.to" width="22px" src="https://raw.githubusercontent.com/gist/benhalpern/eff81b17359acafd17849146549b9291/raw/6de3cc24798bd3b133d4d89a1d87004c369eac46/dev-icon.svg" />][dev.to]
 <br />
 
 ### Languages and Tools:
