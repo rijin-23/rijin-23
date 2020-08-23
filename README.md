@@ -2,6 +2,13 @@
 
 [<img align="left" alt="dev.to | Dev.to"  src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][dev.to]
 
+[<img align="left" alt="instagram | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+[<img align="left" alt="instagram | LinkedIn" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+<br />
 ## I'm a Student and a Developer!
 
 - 🔭 I’m currently working on my Final Year project!
