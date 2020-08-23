@@ -1,5 +1,4 @@
 ### Hi there, I'm Rijin Thomas 👋
-<br/>
 
 [<img align="left" alt="dev.to | Dev.to"  src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][dev.to]
 
