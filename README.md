@@ -12,10 +12,10 @@
 
 ## I'm a Student and a Developer!
 
-- 🔭 I’m currently working on my Final Year project!
-- 🌱 I’m currently learning Dart and Flutter
-- 📱 I’m looking for opportunities to develop beautiful apps
-- 🥅 2020 Goals: Get placed in a company
+- 🔭 I’m currently working on Tampa Insights Report!
+- 🌱 I’m currently learning Advanced Machine Learning algorithms and Deep Learning.
+- 📱 I’m looking for opportunities to develop efficient Machine Learning models.
+- 🥅 2023 Goals: Complete the OpenCV project that I'm working on.
 - ⚡ Fun fact: I love to play soccer in my free time
 - 🗽 My dream is to buy my own house in Manhattan
 
